@@ -1,0 +1,15 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "description": "",
+  "main": "src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jan Honza Pozivil <jpozivil@leadtech.com> (https://leadtech.com/)",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
