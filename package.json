@@ -1,14 +1,14 @@
 {
   "name": "hello-world",
-  "version": "0.1.0",
-  "description": "",
+  "version": "1.0.0",
+  "description": "Hellow world CLI command to say hello to your loved ones. :)",
   "main": "src/cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Jan Honza Pozivil <jpozivil@leadtech.com> (https://leadtech.com/)",
-  "license": "UNLICENSED",
+  "author": "Jan Pozivil <crs1138@me.com> (https://crs1138.me)",
+  "license": "MIT",
   "dependencies": {
     "yargs": "^17.7.2"
   }
