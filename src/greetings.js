@@ -15,7 +15,7 @@ const getLongGreetings = (longListOfNames) => {
 const getGreetings = (names) => {
     const greetingsList = [
         'Hello world!',
-        `Hi there ${names}!`,
+        `Hi there ${names[0]}!`,
         `Hi there ${joinTwoNames(names)}!`,
         `Hi there ${getLongGreetings(names)}!`,
     ];
